@@ -2,8 +2,7 @@ baseurl = "http://example.org/"
 languageCode = "en-us"
 title = "Adam Darnell"
 theme = "hyde"
-
-
+googleAnalytics = "UA-106765449-1"
 
 [params]
   themeColor = "theme-base-ad"
