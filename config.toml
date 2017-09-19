@@ -6,7 +6,7 @@ googleAnalytics = "UA-106765449-1"
 
 [params]
   themeColor = "theme-base-ad"
-  description = "Pastor of South Durham Church, Durham, NC, USA."
+  description = "Pastor of South Durham Church in Durham, North Carolina."
 
 [[menu.main]]
     URL = "http://sermons.southdurham.org"
