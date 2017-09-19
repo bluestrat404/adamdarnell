@@ -1,4 +1,4 @@
-baseurl = "http://adamdarnell.netlify.com/"
+baseurl = "https://adamdarnell.netlify.com/"
 languageCode = "en-us"
 title = "Adam Darnell"
 theme = "hyde"
@@ -12,3 +12,8 @@ googleAnalytics = "UA-106765449-1"
     URL = "http://sermons.southdurham.org"
     Name = "Sermons"
     weight = 20
+
+[[menu.main]]
+    URL = "https://www.southdurham.org"
+    Name = "South Durham Church"
+    weight = 30
