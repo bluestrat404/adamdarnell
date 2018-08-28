@@ -1,7 +1,7 @@
 baseurl = "https://adamdarnell.netlify.com/"
 languageCode = "en-us"
 title = "Adam Darnell"
-theme = "hugo-paper" # "hyde"
+theme = "paper"
 googleAnalytics = "UA-106765449-1"
 
 [params]
