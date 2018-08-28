@@ -6,7 +6,7 @@ categories = [
   "Ministry"
 ]
 slug = "drug-addict-whitewashed-tomb"
-draft = true
+#draft = true
 +++
 
 You want the drug addict in your church, not the hurting former lay elder who's trying to control things on the way in.
@@ -21,9 +21,9 @@ The person trying to control things on the way in is still trying to hedge his b
 
 It is not loving to encourage a brother on that path by stepping in for that extra meeting. The person he needs to lean on is not you, the pastor of the church he may want to join, but Christ, the great Shepherd of all the Church.
 
-The role of a pastor is, dependent on Christ, to point others to depend on Christ. Alone.
+The role of a pastor is: dependent on Christ, to point others to depend on Christ.
 
-One assumes that the drug addict coming to church is doing that, whereas anyone trying to control things on the way in is not.
+One assumes that the drug addict coming to church is really depending on Jesus, whereas anyone trying to control things on the way in is not.
 
 That's why I say you want the drug addict in your church, not the hurting former lay elder who's trying to control things on the way in.
 
