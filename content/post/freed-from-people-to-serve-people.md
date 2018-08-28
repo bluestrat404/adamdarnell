@@ -12,6 +12,8 @@ slug = "freed-from-people-to-serve-people"
 
 We can never really serve people until we're free of people. We can never fully and freely work for the good of others until we don't need anything from them.
 
+<!--more-->
+
 If I'm kind to others because I want them to like me, or because I don't want them to know about some aspect of me (like maybe that I'm angry at them), or because of anything that's about me, then my kindness, while it might look good on the outside, is just an expression of selfishness on the inside.
 
 Jesus talked about this:

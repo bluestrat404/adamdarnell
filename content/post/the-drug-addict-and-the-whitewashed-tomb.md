@@ -6,12 +6,14 @@ categories = [
   "Ministry"
 ]
 slug = "drug-addict-whitewashed-tomb"
-#draft = true
+draft = true
 +++
 
 You want the drug addict in your church, not the hurting former lay elder who's trying to control things on the way in.
 
 What I mean is, the hurting former lay elder, who was burned in his last church, is, for very rational and well-intentioned reasons, trying to get as many meetings with the pastor as possible so that he can be assured he won't be hurt in this church. A warning to pastors: do not offer him that assurance!
+
+<!--more-->
 
 Of course, a hurting former lay elder should always be welcome in any church, so long as he is not trying to control things on the way in.
 

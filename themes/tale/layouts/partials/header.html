@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  {{ partial "head.html" . }}
+
+  <body>
+		<nav class="nav">
+			<div class="nav-container">
+			<a href="{{ .Site.BaseURL }}/">
+				<h2 class="nav-title">{{ .Site.Title }}</h2>
+			</a>
+			<ul>
+				<li><a href="{{ .Site.BaseURL }}about">About</a></li>
+				<li><a href="{{ .Site.BaseURL }}">Posts</a></li>
+                {{ range .Site.Menus.main -}}
+                    <li><a href="{{.URL}}">{{ .Name }}</a></li>
+                {{- end }}
+			</ul>
+			</div>
+		</nav>

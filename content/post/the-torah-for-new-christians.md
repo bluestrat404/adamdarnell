@@ -10,6 +10,8 @@ slug = "torah-for-new-christians"
 
 How many 21st Century discipleship plans for new Christians include an in-depth study of the Torah? My guess: not many. But it seems that the Apostle Paul had a different approach.
 
+<!--more-->
+
 The Torah is the Hebrew name for the first five books of the Bible: Genesis, Exodus, Leviticus, Numbers, and Deuteronomy. It's also called the Pentateuch.
 
 In 1 Corinthians 10:6-10, Paul refers to five different events recorded there. The verses read:
