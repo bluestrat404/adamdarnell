@@ -1,5 +1,5 @@
 ---
-title: "Remember Death: The Surprising Path to Living Hope"
+title: "Remember Death"
 date: 2018-08-29T11:58:05-04:00
 link: "https://www.crossway.org/articles/an-open-letter-to-those-living-for-tomorrow/"
 ---
