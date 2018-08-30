@@ -1,4 +1,4 @@
-baseurl = "https://www.adamdarnell.com"
+baseurl = "https://www.adamdarnell.com/"
 languageCode = "en-us"
 title = "Adam Darnell"
 theme = "paper"
