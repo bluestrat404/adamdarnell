@@ -29,7 +29,7 @@ Hundreds of years before that, Job asked:
 
 People have always wondered why the wrong folks are in control.
 
-That is why the reminders we'll look at in two weeks, on September 9, are so eternally relevant. We're going to open up Revelation, chapter 1, and start a new sermon series called *7 Letters from Jesus.*
+That's why the reminders we'll look at in two weeks, on September 9, are so eternally relevant. We're going to open up Revelation, chapter 1, and start a new sermon series called *7 Letters from Jesus.*
 
 On the 9th, we'll see 14 things that are true about Jesus, some of which you may have forgotten or have never heard before.
 
