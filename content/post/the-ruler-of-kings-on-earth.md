@@ -22,7 +22,7 @@ Hundreds of years before Christ was born, the prophet Habakkuk cried to God:
 > and remain silent when the wicked swallows up
 > the man more righteous than he? —Habakkuk 1:13
 
-Hundreds of years before that, Job asked:
+And hundreds of years before him, Job asked:
 
 > Why do the wicked live,
 > reach old age, and grow mighty in power? —Job 21:7
